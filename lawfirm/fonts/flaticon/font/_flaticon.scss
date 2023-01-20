@@ -42,10 +42,10 @@
 .flaticon-siren:before { content: "\f103"; }
 .flaticon-lawyer:before { content: "\f104"; }
 .flaticon-policeman:before { content: "\f105"; }
-.flaticon-handcuffs:before { content: "\f106"; }
-.flaticon-padlock:before { content: "\f107"; }
+.fa fa-link:before { content: "\f106"; }
+.fa fa-lock:before { content: "\f107"; }
 .fa fa-university:before { content: "\f108"; }
-.flaticon-folder:before { content: "\f109"; }
+.fa fa-folder:before { content: "\f109"; }
 .fa fa-balance-scale:before { content: "\f10a"; }
 .flaticon-act:before { content: "\f10b"; }
     
@@ -55,9 +55,9 @@
     $font-Flaticon-siren: "\f103";
     $font-Flaticon-lawyer: "\f104";
     $font-Flaticon-policeman: "\f105";
-    $font-Flaticon-handcuffs: "\f106";
-    $font-Flaticon-padlock: "\f107";
+    $font-fa fa-link: "\f106";
+    $font-fa fa-lock: "\f107";
     $font-fa fa-university: "\f108";
-    $font-Flaticon-folder: "\f109";
+    $font-fa fa-folder: "\f109";
     $font-fa fa-balance-scale: "\f10a";
     $font-Flaticon-act: "\f10b";
