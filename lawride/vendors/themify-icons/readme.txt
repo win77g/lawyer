@@ -7,7 +7,7 @@ HOW TO USE IT:
 <link href="/lawride/http://yoursite.com/themify-icons.css" rel="stylesheet">
 
 3) Add the icon markup in your page:
-<span class="ti-download"></span>
+<span class="fa fa-download"></span>
 
 All icons can be viewed at: http://themify.me/themify-icons
 
