@@ -168,7 +168,7 @@ jQuery(document).ready(function($) {
 		    margin: 20,
 		    nav: false,
 		    dots: true,
-				navText: ['<span class="icon-arrow_back">', '<span class="icon-arrow_forward">'],
+				navText: ['<span class="fa fa-arrow_back">', '<span class="fa fa-arrow_forward">'],
 		    responsive:{
 	        600:{
 	        	margin: 20,
@@ -201,7 +201,7 @@ jQuery(document).ready(function($) {
 		    nav: true,
 		    animateOut: 'fadeOut',
 		    animateIn: 'fadeIn',
-		    navText: ['<span class="icon-arrow_back">', '<span class="icon-arrow_forward">']
+		    navText: ['<span class="fa fa-arrow_back">', '<span class="fa fa-arrow_forward">']
 		  });
 	  }
 

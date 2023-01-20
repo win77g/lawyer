@@ -289,10 +289,10 @@
 .ti-angle-double-up {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe660;');
 }
-.ti-angle-double-right {
+.fa fa-arrow-right {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe661;');
 }
-.ti-angle-double-left {
+.fa fa-arrow-left {
 	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe662;');
 }
 .ti-angle-double-down {

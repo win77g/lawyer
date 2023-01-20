@@ -314,10 +314,10 @@
 .ti-angle-double-up:before {
 	content: "\e660";
 }
-.ti-angle-double-right:before {
+.fa fa-arrow-right:before {
 	content: "\e661";
 }
-.ti-angle-double-left:before {
+.fa fa-arrow-left:before {
 	content: "\e662";
 }
 .ti-angle-double-down:before {

@@ -62,8 +62,8 @@
     autoplaySpeed: 2000,
     pauseOnHover: true,
     arrows: true,
-    prevArrow: '<i class="slick_left ti-angle-double-left"></i>',
-    nextArrow: '<i class="slick_right ti-angle-double-right"></i>',
+    prevArrow: '<i class="slick_left fa fa-arrow-left"></i>',
+    nextArrow: '<i class="slick_right fa fa-arrow-right"></i>',
     responsive: [
       {
         breakpoint: 480,
