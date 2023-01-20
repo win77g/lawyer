@@ -70,7 +70,7 @@ d="M412 328h-408c-2 0 -4 2 -4 4v20c0 18 14 32 32 32h352c18 0 32 -14 32 -32v-20c0
 c-8 0 -15 -8 -14 -16c1 -7 7 -12 14 -12h100z" />
     <glyph glyph-name="ion-ios-arrow-back" unicode="&#xf3cf;" horiz-adv-x="192" 
 d="M58 192l127 -127c9 -9 9 -25 0 -34c-5 -5 -11 -7 -17 -7s-12 2 -17 7l-145 145c-9 9 -8 24 1 33l144 144c9 9 25 9 34 0s9 -25 0 -34z" />
-    <glyph glyph-name="ion-ios-arrow-down" unicode="&#xf3d0;" horiz-adv-x="336" 
+    <glyph glyph-name="fa fa-arrow-down" unicode="&#xf3d0;" horiz-adv-x="336" 
 d="M168 154l127 127c9 9 25 9 34 0s9 -25 0 -34l-144 -144c-9 -9 -24 -10 -33 -1l-145 145c-5 5 -7 11 -7 17s2 12 7 17c9 9 25 9 34 0z" />
     <glyph glyph-name="ion-ios-arrow-dropdown-circle" unicode="&#xf125;" 
 d="M0 192c0 115 93 208 208 208s208 -93 208 -208s-93 -208 -208 -208s-208 93 -208 208zM289 235l-81 -79l-81 81c-8 8 -19 8 -27 0s-8 -19 0 -27l95 -95c7 -7 19 -8 27 -1l94 94c4 4 6 9 6 14s-2 9 -6 13c-8 8 -19 8 -27 0z" />
